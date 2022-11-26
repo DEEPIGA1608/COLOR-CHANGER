@@ -1,0 +1,15 @@
+.box{
+    width:30%;
+    margin-top: 100px;
+    border-radius: 20px;
+    color:white;
+    border: 3px solid black;
+}
+.first{
+    width:50%;
+}
+body{
+    background-image: url("https://img.freepik.com/free-vector/black-neutral-carbon-abstract-background-modern-minimalist-presentation-design-suit-business-corporate-institution-party-festive-seminar-talks_181182-28459.jpg?w=2000");
+    background-size: 1300px 600px;
+    background-repeat: no-repeat;
+}
